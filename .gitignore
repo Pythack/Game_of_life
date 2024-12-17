@@ -1,0 +1,7 @@
+__pycache__/
+output/
+build/
+dist/
+images/icon.ico
+main.spec
+.pytest_cache/
